@@ -1,4 +1,4 @@
-# cllg_project2_Retail-Data-Analytics
+
 
 This project shows the Diwali Sales Analytics of a particulat relail show.
 It provide's us various insights from cleaning of data in excel and then using python commands and libraries to creating visualisations using jupyter notebook.
